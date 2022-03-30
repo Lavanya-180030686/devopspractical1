@@ -1,5 +1,0 @@
-this is my first practical session install git and creating account in github
-------Devops--------
-Development operations
-To provide collabration between Development team and operation team
-Devops is not a tool
